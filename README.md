@@ -49,3 +49,4 @@ These visuals collectively support:
 • Team leads in tracking their analysts’ daily and long-term performance
 • Managers in making informed decisions regarding salary hikes, recognitions, or team restructuring
 • A data-driven performance management system for Hudl’s operational excellence
+Snapshot link: 
