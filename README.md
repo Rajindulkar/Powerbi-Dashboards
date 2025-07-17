@@ -50,3 +50,4 @@ These visuals collectively support:
 • Managers in making informed decisions regarding salary hikes, recognitions, or team restructuring
 • A data-driven performance management system for Hudl’s operational excellence
 Snapshot link: 
+Snapshot link: https://github.com/Rajindulkar/Powerbi-Dashboards/blob/main/Snapshot_HUDL_performance_dashboard_2024-25.png
