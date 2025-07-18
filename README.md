@@ -48,6 +48,6 @@ A donut chart is used to show the proportion of games tagged by each team or loc
 These visuals collectively support:
 • Team leads in tracking their analysts’ daily and long-term performance
 • Managers in making informed decisions regarding salary hikes, recognitions, or team restructuring
-• A data-driven performance management system for Hudl’s operational excellence
-Snapshot link: 
-Snapshot link:[ https://github.com/Rajindulkar/Powerbi-Dashboards/blob/main/Snapshot_HUDL_performance_dashboard_2024-25.png](https://github.com/Rajindulkar/Powerbi-Dashboards/blob/main/Snapshot_HUDL_performance_dashboard_2024-25.png)
+• A data-driven performance management system for Hudl’s operational excellence.
+
+Snapshot link:
