@@ -1,4 +1,4 @@
-📊 Power BI Project: Hudl Employees Performance Tracker
+📊 Power BI Project: "Hudl Employees Performance Tracker"
 The Hudl Employees Performance Tracker is a dynamic and visually intuitive Power BI dashboard developed to monitor, compare, and analyze the performance of employees across various teams and office locations at Hudl.
 
 This report enables stakeholders to assess key performance indicators (KPIs) such as:
